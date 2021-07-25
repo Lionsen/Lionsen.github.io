@@ -1,0 +1,47 @@
+﻿/*====================================
+      Authour URI: #
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% Free To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDIT US AND TELL YOUR FRIENDS ABOUT US
+    
+	Color: Blue
+  ======================================*/
+
+/*=====================================
+  HOME MAIN STYLES 
+   ===================================*/
+.home-icon {
+    color:rgb(54, 36, 146);
+}
+#home .name-div h1{
+            color:rgb(54, 36, 146);
+}
+ .call-div {
+    color: #FFFFFF;
+    background-color: rgb(54, 36, 146);
+}
+   /*=====================================
+  SALE STRIP STYLES 
+   ===================================*/
+.sale-strip {
+    background-color: rgb(54, 36, 146);
+color:#fff;
+
+}
+
+  /*=====================================
+  DETAIL STYLES 
+   ===================================*/
+#detail h3 {
+     color:rgb(54, 36, 146);
+}
+/*=====================================
+  FOOTER STYLES 
+   ===================================*/
+#footer-sec {
+    color: #fff; 
+      background-color: rgb(54, 36, 146);
+}

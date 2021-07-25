@@ -1,0 +1,140 @@
+﻿
+/* =============================================================
+   GENERAL STYLES
+ ============================================================ */
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #fff;
+}
+
+.color-strip {
+  height: 3px;
+  border-top: 0;
+  max-width:220px;
+  background: #c4e17f;
+  border-radius: 5px;
+  background-image: -webkit-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: -moz-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: -o-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: linear-gradient(to right, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+}
+.color-strip-low {
+  height: 1px;
+  border-top: 0;
+  max-width:120px;
+  background: #c4e17f;
+  border-radius: 5px;
+  background-image: -webkit-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: -moz-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: -o-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+  background-image: linear-gradient(to right, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+}
+h2,h3 {
+    text-transform: uppercase;
+}
+.text-center {
+    text-align:center;
+}
+/*=====================================
+  HOME MAIN STYLES 
+   ===================================*/
+
+#home .name-div h1{
+     padding-top: 60px;
+            color:rgb(255, 5, 85);
+            text-transform:uppercase;
+}
+.home-icon {
+    color:rgb(255, 5, 85);
+    padding:15px;
+    max-height:100px;
+    max-width:100px;
+}
+     
+    #home p {
+        padding: 20px 20px 20px 0px;
+        line-height: 30px;
+        font-size: 14px;
+    }
+
+      .call-div {
+    color: #FFFFFF;
+    background-color: rgb(255, 5, 85);
+font-size: 18px;
+line-height: 30px;
+padding:15px;
+}
+        .call-div span {
+            display:block;
+        }
+        .call-div span >i {
+            margin-right:15px;
+        }
+       
+.copyrights{
+	text-indent:-9999px;
+	height:0;
+	line-height:0;
+	font-size:0;
+	overflow:hidden;
+}
+   /*=====================================
+  SALE STRIP STYLES 
+   ===================================*/
+.sale-strip {
+    background-color: rgb(255, 5, 85);
+min-height: 150px;
+margin: 30px 0px 30px 0px;
+text-align: center;
+padding: 20px;
+font-size: 30px;
+font-weight: 800;
+color:#fff;
+
+}
+    .sale-strip small {
+        font-size:16px;
+        font-weight: 400;
+        display:block;
+        padding:10px;
+       
+    }
+
+ /*=====================================
+  DETAIL STYLES 
+   ===================================*/
+#detail {
+    text-align:center;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+
+    #detail #info i {
+        padding:10px;
+    }
+     #detail #info p>span {
+        display:block;
+    }
+.vedio-style {
+    border: 0px;
+     width: 100%; 
+     min-height: 260px;
+     margin-top:10px;
+     
+}
+
+#detail h3 {
+     color:rgb(255, 5, 85);
+}
+  /*=====================================
+  FOOTER STYLES 
+   ===================================*/
+#footer-sec {
+    color: #fff; 
+     padding: 15px 30px 15px 30px; 
+     text-align: right;
+      background-color: rgb(255, 5, 85);
+}
+
+ 

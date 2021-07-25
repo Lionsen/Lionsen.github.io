@@ -1,0 +1,46 @@
+﻿/*====================================
+        Authour URI: #
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% Free To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDIT US AND TELL YOUR FRIENDS ABOUT US
+
+      Color: Green
+  ======================================*/
+
+/*=====================================
+  HOME MAIN STYLES 
+   ===================================*/
+.home-icon {
+    color:rgb(5, 131, 0);
+}
+#home .name-div h1{
+            color:rgb(5, 131, 0);
+}
+ .call-div {
+    color: #FFFFFF;
+    background-color: rgb(5, 131, 0);
+}
+   /*=====================================
+  SALE STRIP STYLES 
+   ===================================*/
+.sale-strip {
+    background-color: rgb(5, 131, 0);
+color:#fff;
+
+}
+  /*=====================================
+  DETAIL STYLES 
+   ===================================*/
+#detail h3 {
+     color:rgb(5, 131, 0);
+}
+/*=====================================
+  FOOTER STYLES 
+   ===================================*/
+#footer-sec {
+    color: #fff; 
+      background-color: rgb(5, 131, 0);
+}

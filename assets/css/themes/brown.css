@@ -1,0 +1,46 @@
+﻿/*====================================
+        Authour URI: #
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% Free To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDIT US AND TELL YOUR FRIENDS ABOUT US
+
+       Color: Brown
+  ======================================*/
+
+/*=====================================
+  HOME MAIN STYLES 
+   ===================================*/
+.home-icon {
+    color:rgba(143, 4, 32, 1);
+}
+#home .name-div h1{
+            color:rgba(143, 4, 32, 1);
+}
+ .call-div {
+    color: #FFFFFF;
+    background-color: rgba(143, 4, 32, 1);
+}
+   /*=====================================
+  SALE STRIP STYLES 
+   ===================================*/
+.sale-strip {
+    background-color:rgba(143, 4, 32, 1);
+color:#fff;
+
+}
+  /*=====================================
+  DETAIL STYLES 
+   ===================================*/
+#detail h3 {
+     color:rgba(143, 4, 32, 1);
+}
+/*=====================================
+  FOOTER STYLES 
+   ===================================*/
+#footer-sec {
+    color: #fff; 
+      background-color: rgba(143, 4, 32, 1);
+}

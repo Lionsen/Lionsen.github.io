@@ -1,0 +1,47 @@
+﻿/*====================================
+     Authour URI: #
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% Free To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDIT US AND TELL YOUR FRIENDS ABOUT US
+
+    Color: Black
+  ======================================*/
+
+/*=====================================
+  HOME MAIN STYLES 
+   ===================================*/
+.home-icon {
+    color: #000;
+}
+#home .name-div h1{
+            color:#000;
+}
+ .call-div {
+    color: #FFFFFF;
+    background-color: #000;
+}
+   /*=====================================
+  SALE STRIP STYLES 
+   ===================================*/
+.sale-strip {
+    background-color:#000;
+color:#fff;
+
+}
+
+  /*=====================================
+  DETAIL STYLES 
+   ===================================*/
+#detail h3 {
+     color:#000;
+}
+/*=====================================
+  FOOTER STYLES 
+   ===================================*/
+#footer-sec {
+    color: #fff; 
+      background-color:#000;
+}
